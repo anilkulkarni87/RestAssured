@@ -47,7 +47,6 @@ public class postOperationsTest {
                 when()
                 .post(Constants.POSTS).
                 then()
-                .statusCode(201)
-                .log().all();
+                .statusCode(201);
     }
 }

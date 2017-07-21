@@ -12,7 +12,7 @@ import static io.restassured.RestAssured.given;
  */
 
 public class putOperationsTest {
-    @Test(priority = 2, enabled = false)
+    @Test(priority = 2, enabled = true)
     public void httpPut(){
         HashMap<String,Object> jsonAsMap=new HashMap<String, Object>();
         jsonAsMap.put("id",2);
@@ -25,7 +25,6 @@ public class putOperationsTest {
         when()
                 .put(Constants.PUT_POST_WITH_ID).
         then()
-                .statusCode(200)
-                .log().all();
+                .statusCode(200);
     }
 }
