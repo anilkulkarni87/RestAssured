@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0c47cf-0a0b-4804-8bd8-107dd5f61e5b" name="Default" comment="Added Framework files, Included Faker library for generating data.">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/ak/framework/RestAssuredConfiguration.java" afterPath="$PROJECT_DIR$/src/test/java/com/ak/configuration/RestAssuredConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestAssured.iml" afterPath="$PROJECT_DIR$/RestAssured.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/ak/functionalTests/getOperationsTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/ak/functionalTests/getOperationsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/ak/functionalTests/postOperationsTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/ak/functionalTests/postOperationsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/ak/functionalTests/putOperationsTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/ak/functionalTests/putOperationsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,6 +40,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="anilkulkarni &lt;anil77k@gmail.com&gt;" />
         <option value="anilkulkarni87" />
         <option value="Kulkarni, Anil (Contractor) &lt;anil.kulkarni@nordstrom.com&gt;" />
         <option value="anilkulkarni" />
@@ -804,7 +798,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500403770476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Framework files, Included Faker library for generating data.">
+      <created>1500662309951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500662309951</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
